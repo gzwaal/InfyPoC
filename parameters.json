@@ -8,13 +8,13 @@
 
 		"adlAnalyticsName": {
 
-			"value": "GAZ-ADLS"
+			"value": "GermanADLAnalytics"
 
 		},
 
 		"adlStoreName": {
 
-			"value": "ADSTORE"
+			"value": "GermanADLStore"
 
 		}
 
